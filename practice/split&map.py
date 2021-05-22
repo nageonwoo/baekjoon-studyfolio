@@ -1,5 +1,5 @@
 #1.'40 80 60'.split()->str의 list ex)['40','80','60']
-#2-1. a,b,c=map(int,nums)->a,b,c가 각각 int로 바 ex)a=40,b=80,c=60
+#2-1. a,b,c=map(int,nums)->a,b,c가 각각 int로 바뀜 ex)a=40,b=80,c=60
 #2-2. numlist=list(map(int,nums))->numlist가 int의 list ex)[40,80,60]
 numStr='10 20 30'
 nums=numStr.split()
